@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# GRIP Task-7:Stock-Market-Prediction
 
 Datasets Used:
 
